@@ -1,0 +1,24 @@
+{
+  "technical_skills": [
+    "python", "machine learning", "deep learning", "tensorflow",
+    "pytorch", "nlp", "data analysis", "data visualization",
+    "sql", "excel", "pandas", "numpy", "matplotlib", "scikit-learn",
+    "computer vision", "opencv", "transformers", "huggingface",
+    "generative ai", "large language models", "llm"
+  ],
+
+  "soft_skills": [
+    "communication", "teamwork", "problem solving", "time management",
+    "critical thinking", "adaptability", "creativity", "leadership"
+  ],
+
+  "tools": [
+    "jupyter notebook", "google colab", "vs code", "git", "github",
+    "docker", "aws", "azure", "google cloud", "power bi", "tableau"
+  ],
+
+  "roles_of_interest": [
+    "ai engineer", "machine learning engineer", "data scientist",
+    "ai intern", "ml intern", "data analyst", "research intern"
+  ]
+}

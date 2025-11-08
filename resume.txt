@@ -1,0 +1,138 @@
+Suraj Suratkar 
+
+LinkedIn GitHub +91 8668435110 surajsuratkar38@gmail.com  Pune, India 
+
+SUMMARY 
+
+AI \& Data Science student with hands-on experience building NLP applications, REST APIs, and generative AI 
+
+tools using Python and large language models. Proficient in deploying end-to-end solutions, integrating vector 
+
+databases, and working with real-time user data. Eager to apply technical knowledge in machine learning, 
+
+prompt engineering, and model deployment to real-world challenges. 
+
+EDUCATION 
+
+B.Tech in Artificial Intelligence \& Data Science, Vishwakarma University                                               
+
+CGPA: 7.63 / 10                                                                                                                                                     
+
+2022 – 2025 
+
+Maharashtra, India 
+
+Diploma in Mechanical Engineering, Bharathi Vidyapeeth                                                                             
+
+Percentage: 75.00%                                                                                                                                             
+
+SKILLS 
+
+2019 – 2022 
+
+Maharashtra, India 
+
+• Programming Languages: Python, HTML, CSS 
+
+• Databases: SQL, MySQL, MongoDB 
+
+• Data Visualization Tools: Power BI, Tableau 
+
+• Frameworks \& Tools: FastAPI, LangChain 
+
+• Technical Skills: Machine Learning, Deep Learning, Neural Networks, NLP, Generative AI, LLMs, 
+
+Data Structures \& Algorithms, AI Libraries (TensorFlow, PyTorch) 
+
+• Data Analysis: Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization, Statistical Analysis 
+
+• Soft Skills: Analytical Reasoning, Team-Based Problem Solving, Agile Work Environments 
+
+WORK EXPERIENCE 
+
+AI Intern 
+
+L \& D Infotech 
+
+Jul ‘24 — Dec ‘24 
+
+• Worked on AI-driven projects involving data preprocessing, model development, and deployment to support 
+
+real-world business use cases. 
+
+• Gained hands-on experience in machine learning, natural language processing, and cloud-based tools for AI 
+
+solutions. 
+
+• Collaborated with the development team to optimize algorithms and enhance performance of AI applications. 
+
+PROJECTS 
+
+1\. AI-Powered Text-to-3D Generation Link 
+
+• Constructed an AI system that transforms natural language into 3D models with over 90% accuracy 
+
+using Open fabric SDK and local LLMs. 
+
+• Orchestrated a two-stage generation pipeline that processed 50+ user prompts and converted text → 
+
+image → 3D using DeepSeek/Llama via Hugging Face. 
+
+• Programmed 5+ REST APIs using FastAPI for handling user prompts, backend processing, and asset 
+
+storage. 
+
+• Built a modular stub class to manage real-time app connections, handling 100+ WebSocket events 
+
+efficiently. 
+
+• Implemented persistent storage for 30+ generated assets and maintained prompt-history logs to 
+
+support user memory and regeneration. 
+
+2\. Generative AI-Powered Cold Email Generator Link 
+
+• Created a tool to auto-generate personalized emails for 25+ job listings by scraping and analyzing 
+
+job descriptions. 
+
+• Integrated Groq API with LIaMA 3.1 to achieve over 85% accuracy in role-aligned email generation. 
+
+• Leveraged ChromaDB to dynamically insert 10+ custom portfolio links, improving message 
+
+relevance by 70%. 
+
+• Used ChromaDB to auto-insert 10+ personalized portfolio links, increasing email relevance by 70%. 
+
+• Streamlined agent-task orchestration via LangChain, reducing code complexity by 30%. 
+
+3\. Reddit User Persona Generator Link 
+
+• Designed an NLP-driven system to generate psychological and behavioral profiles from Reddit 
+
+comment data for 20+ users. 
+
+• Retrieved and parsed user activity via PRAW, processing thousands of text tokens per profile in real 
+
+time 
+
+• Applied TextBlob and spaCy to extract sentiment polarity, emotion, and key entities. 
+
+• Produced both JSON outputs and concise summaries for integration into dashboards or reports. 
+
+• Enabled <3-second persona generation time for user profiling in social media analysis applications 
+
+CERTIFICATIONS 
+
+1\. Machine learning A-Z in python - Udemy: Pursuing 
+
+2\. Deep learning A-Z in python - Udemy: Pursuing 
+
+3\. Business Intelligence Using Power BI: SkillNation 
+
+4\. Deloitte Australia Data Analytics Virtual Job Simulation | Forage | 2025 
+
+5\. Business Intelligence Using Power BI | SkillNation | 2024 
+
+6\. Microsoft Power BI Data Analyst Associate | Microsoft | 2025
+
